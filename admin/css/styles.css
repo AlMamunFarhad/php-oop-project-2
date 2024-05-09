@@ -1,0 +1,50 @@
+
+.container-fluid .edit-form .form-group label{
+	margin-top: 5px;
+	margin-bottom: 20px;
+	text-decoration: underline;
+
+}
+
+.container-fluid .edit-form .form-group .form-control{
+    box-shadow: none;
+	border-top: none !important;
+    border-left: none;
+    border-right: none;
+}
+
+/**************** EDIT USER SECTON ********************/
+.container-fluid .edit-user .form-group label{
+	margin-top: 5px;
+	margin-bottom: 20px;
+	text-decoration: underline;
+
+}
+.container-fluid .edit-user .form-group .form-control{
+    box-shadow: none;
+	border-top: none !important;
+    border-left: none;
+    border-right: none;
+}
+
+
+/*.col-md-12 .table td{
+
+	vertical-align: none !important;
+	vertical-align: middle !important;
+}*/
+
+/*.container-fluid .col-md-12 .table tbody tr td{
+
+	vertical-align: none !important;
+}*/
+
+/*.table>tbody>tr>td,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>th{
+
+	vertical-align: middle !important;
+}*/
+
+.table>tbody>tr>td{
+
+	vertical-align: middle !important;
+}
